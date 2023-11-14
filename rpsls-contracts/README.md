@@ -1,13 +1,4 @@
-# Sample Hardhat Project
-
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+Project Title -> Rock Paper Scissor Spock Lizard
+Description -> The dApp I explain here is an on-chain Rock Paper Scissor Lizard and Spock game built on Blockchain. Here, you can play the game by staking some ETH. Two players can play the game at a time.
+Installation -> In order to run the project just clone the project and run "npm i" in your terminal.
+Run -> To run the project on a local host do -> cd rpsls-contracts -> cd client -> npm start
